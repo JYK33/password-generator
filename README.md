@@ -6,4 +6,4 @@ The password length has to be between 8 and 128 characters and needs to use at l
  ![HW-3 Screenshot](./Assets/images/Password-Generator.png)
 
 ### Deployed Site 
-https://jyk33.github.io/Creating-a-portfolio/
+https://jyk33.github.io/password-generator/
