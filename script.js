@@ -54,7 +54,7 @@ function generatePassword() {
     
   // 5) Use of special characters
   var useSpecialChars = confirm(
-    "would you like to use special characters?"
+    "Would you like to use special characters?"
     )
     
     // If all confrims are false, this function wil restart the process
